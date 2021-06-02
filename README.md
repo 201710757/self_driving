@@ -1,2 +1,6 @@
 # self_driving
-with gta5
+
+IQN(model) : training model
+ENV(env) : IQN/env/
+LIDAR-GTA-V(lidar) : get lidar data from GTA5
+
